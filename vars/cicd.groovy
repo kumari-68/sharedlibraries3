@@ -1,6 +1,6 @@
 def gitdownload(repo)
 {
-   git 'https://github.com/IntelliqDevops/maven.git'
+   git 'https://github.com/IntelliqDevops/${maven}.git'
 }
 def buildartifact()
 {
